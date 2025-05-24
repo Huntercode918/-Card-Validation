@@ -1,0 +1,11 @@
+{
+  "name": "credit-card-brand-detector",
+  "version": "1.0.0",
+  "description": "Aplicação simples para identificar a bandeira de cartões de crédito a partir do número.",
+  "main": "creditCardUtils.js",
+  "scripts": {
+    "test": "node tests/testCreditCardUtils.js"
+  },
+  "author": "Huntercode918",
+  "license": "MIT"
+}

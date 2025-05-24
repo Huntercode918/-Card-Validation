@@ -1,0 +1,1 @@
+Esta pasta contém imagens relacionadas ao projeto, como logos das bandeiras dos cartões, exemplos, etc.
