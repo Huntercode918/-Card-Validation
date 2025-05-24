@@ -1,6 +1,5 @@
-![Bandeiras de cartões](credit-card-brand-detector/credit-card-brand-detector/images/add%20all%20the%20flags%20mentioned%20in%20this%20image.png)
 <p align="center">
-  <img src="credit-card-brand-detector/credit-card-brand-detector/images/add%20all%20the%20flags%20mentioned%20in%20this%20image.png" alt="Bandeiras de cartões" />
+  <img src="https://github.com/Huntercode918/-Card-Validation/blob/main/credit-card-brand-detector/credit-card-brand-detector/images/cardgit.png" alt="Card Image" />
 </p>
 # Identificador de Bandeira de Cartão de Crédito
 
