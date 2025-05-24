@@ -1,3 +1,6 @@
+![add all the flags mentioned in this image](images/add all the flags mentioned in this image.png)
+
+
 # Identificador de Bandeira de Cartão de Crédito
 
 Este projeto é uma aplicação simples em JavaScript capaz de identificar a bandeira de um cartão de crédito (Visa, MasterCard, American Express, etc.) a partir do número informado.
@@ -41,7 +44,3 @@ npm test
 ## Licença
 
 MIT
-
-## Capturas de Tela (Opcional)
-
-Se desejar, adicione imagens ilustrativas do funcionamento do projeto na pasta `/images` e referencie aqui para melhor compreensão visual.
